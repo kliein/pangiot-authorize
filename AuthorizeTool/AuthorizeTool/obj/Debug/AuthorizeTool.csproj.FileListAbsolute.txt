@@ -1,0 +1,9 @@
+F:\WORK\AuthorizeTool\AuthorizeTool\AuthorizeTool\obj\Debug\AuthorizeTool.csprojAssemblyReference.cache
+F:\WORK\AuthorizeTool\AuthorizeTool\AuthorizeTool\obj\Debug\AuthorizeTool.FrmMain.resources
+F:\WORK\AuthorizeTool\AuthorizeTool\AuthorizeTool\obj\Debug\AuthorizeTool.Properties.Resources.resources
+F:\WORK\AuthorizeTool\AuthorizeTool\AuthorizeTool\obj\Debug\AuthorizeTool.csproj.GenerateResource.cache
+F:\WORK\AuthorizeTool\AuthorizeTool\AuthorizeTool\obj\Debug\AuthorizeTool.csproj.CoreCompileInputs.cache
+F:\WORK\AuthorizeTool\AuthorizeTool\AuthorizeTool\bin\Debug\AuthorizeTool.exe
+F:\WORK\AuthorizeTool\AuthorizeTool\AuthorizeTool\bin\Debug\AuthorizeTool.pdb
+F:\WORK\AuthorizeTool\AuthorizeTool\AuthorizeTool\obj\Debug\AuthorizeTool.exe
+F:\WORK\AuthorizeTool\AuthorizeTool\AuthorizeTool\obj\Debug\AuthorizeTool.pdb
